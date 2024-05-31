@@ -1,0 +1,108 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/chunks/app/_not-found/page-c55ae23691e2e2ef.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/ad5d8dea9e7e7328.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/app/layout-c99db79be248a463.js"
+    ],
+    "/games/[id]/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/279e79d5a4151f07.css",
+      "static/chunks/app/games/[id]/page-15a6ce0d9995777b.js"
+    ],
+    "/new/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/new/page-52b4595181039ee0.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/page-c07e5dca183209ff.js"
+    ],
+    "/pixel-games/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/pixel-games/page-d8febf9327886f62.js"
+    ],
+    "/popular/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/popular/page-9820cf017cc45934.js"
+    ],
+    "/profile/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/45ea86678151ebc5.css",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/app/profile/page-dae7f97c1b14b031.js"
+    ],
+    "/runners/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/runners/page-f870404bdc1b14ae.js"
+    ],
+    "/shooters/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/shooters/page-761f4fddc5759c02.js"
+    ],
+    "/tds/page": [
+      "static/chunks/webpack-55285caa78a47ddb.js",
+      "static/chunks/fd9d1056-eccf0ef85408d012.js",
+      "static/chunks/23-1a25da6fad7bbe25.js",
+      "static/chunks/main-app-a4e8bbc46f608c56.js",
+      "static/css/6932a131dba8d5da.css",
+      "static/chunks/138-ca84410970c17f6d.js",
+      "static/chunks/381-f7ec068b65d71378.js",
+      "static/chunks/app/tds/page-331b30593710a56a.js"
+    ]
+  }
+}

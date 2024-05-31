@@ -1,4 +1,4 @@
-export const BASE_URL = 'brotherpindie.nomorepartiesco.ru/api';
+export const BASE_URL = 'https://brotherback.nomorepartiesco.ru/api';
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
