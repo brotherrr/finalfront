@@ -41,7 +41,7 @@
 }
 
 .menu__link {
-  font-family: 'Rubic One', sans-serif;
+  font-family: "Rubic One", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -65,14 +65,11 @@
 
 .auth {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background-color: black;
 }
 
 .auth__button {
-  font-size: 20px;
-  font-family: 'Rubic One', sans-serif;
+  font-size: 30px;
+  font-family: "Rubic One", sans-serif;
   background-color: transparent;
   border: none;
   padding: 12px 20px 10px;
@@ -84,23 +81,6 @@
 }
 
 .auth__button:hover {
-  color: #ffff00;
-}
-
-.register__button {
-  font-size: 20px;
-  font-family: 'Rubic One', sans-serif;
-  background-color: transparent;
-  border: none;
-  padding: 12px 20px 10px;
-  border-left: 4px solid black;
-  text-transform: uppercase;
-  color: white;
-  background-color: black;
-  transition: color 0.3s ease-in-out;
-}
-
-.register__button:hover {
   color: #ffff00;
 }
 
@@ -117,12 +97,10 @@
 
   .auth__button {
     font-size: 20px;
-    display: flex;
-    justify-content: center;
   }
 }
 
-@media (width <=1200px) {
+@media (width <= 1200px) {
   .menu {
     width: 100%;
   }
@@ -132,7 +110,7 @@
   }
 }
 
-@media (width <=768px) {
+@media (width <= 768px) {
   .logo {
     justify-self: center;
   }
@@ -150,5 +128,11 @@
   .auth__button {
     width: 100%;
     padding: 18px 20px 10px;
+  }
+}
+
+@media (width <= 650px) {
+  .banner {
+    padding: 80px 14px;
   }
 }

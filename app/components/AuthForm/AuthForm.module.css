@@ -37,7 +37,7 @@
 
 .form__message {
   margin-bottom: 20px;
-} 
+}
 
 .form__actions {
   display: flex;
@@ -76,7 +76,7 @@
   background-color: #000;
   color: #fff;
   font-family: "Rubic One", sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 1.2px;
   text-transform: uppercase;
   border: none;

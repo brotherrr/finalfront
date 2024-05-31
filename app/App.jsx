@@ -11,7 +11,7 @@ export const App = (props) => {
 
   const store = useStore();
 
-  useEffect(() => { 
+  useEffect(() => {
     store.checkAuth();
   }, []);
 
@@ -22,4 +22,4 @@ export const App = (props) => {
       <Footer />
     </>
   ) 
-}; 
+};
